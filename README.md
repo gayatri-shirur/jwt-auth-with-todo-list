@@ -1,5 +1,7 @@
 # Scalable Web App with Authentication & Dashboard
 
+# Frontend Developer Task
+
 A full-stack web application built with React.js (frontend) and Node.js/Express (backend), featuring JWT authentication and CRUD operations on tasks.
 
 ## 🚀 Features
