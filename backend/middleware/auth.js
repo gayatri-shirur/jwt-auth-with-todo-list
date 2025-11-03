@@ -32,6 +32,7 @@ const protect = async (req, res, next) => {
   } else {
     return res.status(401).json({ message: 'Not authorized, no token' });
   }
+
 };
 
 module.exports = { protect };
